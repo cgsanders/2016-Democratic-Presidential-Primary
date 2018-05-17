@@ -13,6 +13,7 @@ percentage of votes each candidate received. We shall call this variable Outcome
 following formula.
 
 Outcome = Clinton % - Sanders %
+
 Thus any positive value for Outcome indicates a Clinton win for that county and any negative value for
 Outcome indicates a Sanders win for that county. This is a common response variable modeling in political
 sciences and news casting and will help us reflect the more dynamic relationship between county demographics
@@ -21,5 +22,6 @@ continue this terminology. So if we say Clinton is favored by 2 points this equa
 of the vote over Sanders. Thus
 
 Outcome / 2 = Precentage of Vote above 50
+
 where any positive value is the percentage above 50% for Clinton and any negative value is the percentage
 above 50% for Sanders.
